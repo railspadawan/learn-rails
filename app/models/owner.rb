@@ -1,7 +1,7 @@
 class Owner
   
   def name 
-    name = 'Slarti Bart Farst'
+    name = 'Slartibartfarst'
   end
   
   def birthdate
